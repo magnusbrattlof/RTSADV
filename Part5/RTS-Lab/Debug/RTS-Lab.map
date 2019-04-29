@@ -1,0 +1,1421 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atoi.o)
+                              ./Debug/application.c.o (atoi)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o)
+                              ./Debug/application.c.o (snprintf)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atoi.o) (_strtol_r)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o) (_ctype_)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o) (_impure_ptr)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o) (_svfprintf_r)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o) (_printf_i)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memchr.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o) (memchr)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o) (memcpy)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o) (memmove)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o) (_free_r)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o) (_malloc_r)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o) (_realloc_r)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-msizer.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o) (errno)
+/Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+errno               0x4               /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+otable              0xc               ./Debug/TinyTimber.c.o
+upcoming            0x4               ./Debug/TinyTimber.c.o
+threads             0x50              ./Debug/TinyTimber.c.o
+__lock___env_recursive_mutex
+                    0x1               /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+mtable              0xc               ./Debug/TinyTimber.c.o
+__lock___malloc_recursive_mutex
+                    0x1               /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+thread0             0x14              ./Debug/TinyTimber.c.o
+messages            0x2d0             ./Debug/TinyTimber.c.o
+__heap_end          0x4               ./Debug/TinyTimber.c.o
+__lock___at_quick_exit_mutex
+                    0x1               /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+stacks              0x8000            ./Debug/TinyTimber.c.o
+__lock___dd_hash_mutex
+                    0x1               /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x000000000001c000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./Debug/driver_src_stm32f4xx_exti.c.o
+LOAD ./Debug/driver_src_stm32f4xx_can.c.o
+LOAD ./Debug/driver_src_stm32f4xx_usart.c.o
+LOAD ./Debug/driver_src_stm32f4xx_gpio.c.o
+LOAD ./Debug/driver_src_stm32f4xx_tim.c.o
+LOAD ./Debug/driver_src_stm32f4xx_rcc.c.o
+LOAD ./Debug/application.c.o
+LOAD ./Debug/canTinyTimber.c.o
+LOAD ./Debug/dispatch.s.o
+LOAD ./Debug/startup.c.o
+LOAD ./Debug/TinyTimber.c.o
+LOAD ./Debug/sioTinyTimber.c.o
+LOAD ./Debug/sciTinyTimber.c.o
+LOAD ./Debug/buffer.c.o
+LOAD /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a
+LOAD /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+START GROUP
+LOAD /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+
+.text           0x0000000020000000     0x7df0
+                0x0000000020000000                . = ALIGN (0x4)
+ *(.start_section)
+ .start_section
+                0x0000000020000000       0x1c ./Debug/startup.c.o
+                0x0000000020000000                startup
+ *(.text)
+ .text          0x000000002000001c      0x210 ./Debug/driver_src_stm32f4xx_exti.c.o
+                0x000000002000001c                EXTI_DeInit
+                0x0000000020000050                EXTI_Init
+                0x0000000020000134                EXTI_StructInit
+                0x0000000020000160                EXTI_GenerateSWInterrupt
+                0x0000000020000184                EXTI_GetFlagStatus
+                0x00000000200001b8                EXTI_ClearFlag
+                0x00000000200001d8                EXTI_GetITStatus
+                0x000000002000020c                EXTI_ClearITPendingBit
+ .text          0x000000002000022c     0x1020 ./Debug/driver_src_stm32f4xx_can.c.o
+                0x000000002000022c                CAN_DeInit
+                0x0000000020000274                CAN_Init
+                0x0000000020000416                CAN_FilterInit
+                0x000000002000059c                CAN_StructInit
+                0x00000000200005f2                CAN_SlaveStartBank
+                0x0000000020000654                CAN_DBGFreeze
+                0x000000002000068c                CAN_TTComModeCmd
+                0x0000000020000724                CAN_Transmit
+                0x00000000200008c6                CAN_TransmitStatus
+                0x00000000200009a8                CAN_CancelTransmit
+                0x00000000200009fa                CAN_Receive
+                0x0000000020000b76                CAN_FIFORelease
+                0x0000000020000bae                CAN_MessagePending
+                0x0000000020000bf8                CAN_OperatingModeRequest
+                0x0000000020000cf4                CAN_Sleep
+                0x0000000020000d2e                CAN_WakeUp
+                0x0000000020000d84                CAN_GetLastErrorCode
+                0x0000000020000daa                CAN_GetReceiveErrorCounter
+                0x0000000020000dcc                CAN_GetLSBTransmitErrorCounter
+                0x0000000020000dee                CAN_ITConfig
+                0x0000000020000e2a                CAN_GetFlagStatus
+                0x0000000020000ef8                CAN_ClearFlag
+                0x0000000020000f6c                CAN_GetITStatus
+                0x0000000020001120                CAN_ClearITPendingBit
+ .text          0x000000002000124c      0x970 ./Debug/driver_src_stm32f4xx_usart.c.o
+                0x000000002000124c                USART_DeInit
+                0x0000000020001364                USART_Init
+                0x00000000200014d8                USART_StructInit
+                0x0000000020001512                USART_ClockInit
+                0x0000000020001568                USART_ClockStructInit
+                0x0000000020001594                USART_Cmd
+                0x00000000200015d4                USART_SetPrescaler
+                0x000000002000160e                USART_OverSampling8Cmd
+                0x0000000020001652                USART_OneBitMethodCmd
+                0x0000000020001692                USART_SendData
+                0x00000000200016b6                USART_ReceiveData
+                0x00000000200016d6                USART_SetAddress
+                0x0000000020001710                USART_ReceiverWakeUpCmd
+                0x0000000020001750                USART_WakeUpConfig
+                0x0000000020001788                USART_LINBreakDetectLengthConfig
+                0x00000000200017c0                USART_LINCmd
+                0x0000000020001800                USART_SendBreak
+                0x0000000020001824                USART_HalfDuplexCmd
+                0x0000000020001864                USART_SetGuardTime
+                0x00000000200018a0                USART_SmartCardCmd
+                0x00000000200018e0                USART_SmartCardNACKCmd
+                0x0000000020001920                USART_IrDAConfig
+                0x0000000020001958                USART_IrDACmd
+                0x0000000020001998                USART_DMACmd
+                0x00000000200019e0                USART_ITConfig
+                0x0000000020001a70                USART_GetFlagStatus
+                0x0000000020001aa8                USART_ClearFlag
+                0x0000000020001aca                USART_GetITStatus
+                0x0000000020001b80                USART_ClearITPendingBit
+ .text          0x0000000020001bbc      0x4d4 ./Debug/driver_src_stm32f4xx_gpio.c.o
+                0x0000000020001bbc                GPIO_DeInit
+                0x0000000020001d20                GPIO_Init
+                0x0000000020001e3c                GPIO_StructInit
+                0x0000000020001e70                GPIO_PinLockConfig
+                0x0000000020001eb4                GPIO_ReadInputDataBit
+                0x0000000020001ee8                GPIO_ReadInputData
+                0x0000000020001f02                GPIO_ReadOutputDataBit
+                0x0000000020001f36                GPIO_ReadOutputData
+                0x0000000020001f50                GPIO_SetBits
+                0x0000000020001f6e                GPIO_ResetBits
+                0x0000000020001f8c                GPIO_WriteBit
+                0x0000000020001fbc                GPIO_Write
+                0x0000000020001fda                GPIO_ToggleBits
+                0x0000000020001ffe                GPIO_PinAFConfig
+ .text          0x0000000020002090     0x1c18 ./Debug/driver_src_stm32f4xx_tim.c.o
+                0x0000000020002090                TIM_DeInit
+                0x0000000020002250                TIM_TimeBaseInit
+                0x0000000020002328                TIM_TimeBaseStructInit
+                0x000000002000235c                TIM_PrescalerConfig
+                0x0000000020002384                TIM_CounterModeConfig
+                0x00000000200023bc                TIM_SetCounter
+                0x00000000200023d8                TIM_SetAutoreload
+                0x00000000200023f4                TIM_GetCounter
+                0x000000002000240c                TIM_GetPrescaler
+                0x0000000020002426                TIM_UpdateDisableConfig
+                0x0000000020002466                TIM_UpdateRequestConfig
+                0x00000000200024a6                TIM_ARRPreloadConfig
+                0x00000000200024e6                TIM_SelectOnePulseMode
+                0x000000002000251e                TIM_SetClockDivision
+                0x0000000020002556                TIM_Cmd
+                0x0000000020002596                TIM_OC1Init
+                0x000000002000268c                TIM_OC2Init
+                0x000000002000279c                TIM_OC3Init
+                0x00000000200028a8                TIM_OC4Init
+                0x0000000020002978                TIM_OCStructInit
+                0x00000000200029bc                TIM_SelectOCxM
+                0x0000000020002a70                TIM_SetCompare1
+                0x0000000020002a8c                TIM_SetCompare2
+                0x0000000020002aa8                TIM_SetCompare3
+                0x0000000020002ac4                TIM_SetCompare4
+                0x0000000020002ae0                TIM_ForcedOC1Config
+                0x0000000020002b18                TIM_ForcedOC2Config
+                0x0000000020002b54                TIM_ForcedOC3Config
+                0x0000000020002b8c                TIM_ForcedOC4Config
+                0x0000000020002bc8                TIM_OC1PreloadConfig
+                0x0000000020002c00                TIM_OC2PreloadConfig
+                0x0000000020002c3c                TIM_OC3PreloadConfig
+                0x0000000020002c74                TIM_OC4PreloadConfig
+                0x0000000020002cb0                TIM_OC1FastConfig
+                0x0000000020002ce8                TIM_OC2FastConfig
+                0x0000000020002d24                TIM_OC3FastConfig
+                0x0000000020002d5c                TIM_OC4FastConfig
+                0x0000000020002d98                TIM_ClearOC1Ref
+                0x0000000020002dd0                TIM_ClearOC2Ref
+                0x0000000020002e0c                TIM_ClearOC3Ref
+                0x0000000020002e44                TIM_ClearOC4Ref
+                0x0000000020002e80                TIM_OC1PolarityConfig
+                0x0000000020002eb8                TIM_OC1NPolarityConfig
+                0x0000000020002ef0                TIM_OC2PolarityConfig
+                0x0000000020002f2c                TIM_OC2NPolarityConfig
+                0x0000000020002f68                TIM_OC3PolarityConfig
+                0x0000000020002fa4                TIM_OC3NPolarityConfig
+                0x0000000020002fe0                TIM_OC4PolarityConfig
+                0x000000002000301c                TIM_CCxCmd
+                0x0000000020003072                TIM_CCxNCmd
+                0x00000000200030c8                TIM_ICInit
+                0x0000000020003170                TIM_ICStructInit
+                0x00000000200031a2                TIM_PWMIConfig
+                0x000000002000325a                TIM_GetCapture1
+                0x0000000020003272                TIM_GetCapture2
+                0x000000002000328a                TIM_GetCapture3
+                0x00000000200032a2                TIM_GetCapture4
+                0x00000000200032ba                TIM_SetIC1Prescaler
+                0x00000000200032f2                TIM_SetIC2Prescaler
+                0x000000002000332e                TIM_SetIC3Prescaler
+                0x0000000020003366                TIM_SetIC4Prescaler
+                0x00000000200033a2                TIM_BDTRConfig
+                0x00000000200033f2                TIM_BDTRStructInit
+                0x0000000020003430                TIM_CtrlPWMOutputs
+                0x000000002000347c                TIM_SelectCOM
+                0x00000000200034bc                TIM_CCPreloadControl
+                0x00000000200034fc                TIM_ITConfig
+                0x0000000020003544                TIM_GenerateEvent
+                0x0000000020003562                TIM_GetFlagStatus
+                0x000000002000359a                TIM_ClearFlag
+                0x00000000200035bc                TIM_GetITStatus
+                0x0000000020003610                TIM_ClearITPendingBit
+                0x0000000020003632                TIM_DMAConfig
+                0x000000002000365c                TIM_DMACmd
+                0x00000000200036a4                TIM_SelectCCDMA
+                0x00000000200036e4                TIM_InternalClockConfig
+                0x0000000020003708                TIM_ITRxExternalClockConfig
+                0x0000000020003736                TIM_TIxExternalClockConfig
+                0x0000000020003792                TIM_ETRClockMode1Config
+                0x00000000200037f0                TIM_ETRClockMode2Config
+                0x000000002000382e                TIM_SelectInputTrigger
+                0x0000000020003866                TIM_SelectOutputTrigger
+                0x000000002000389e                TIM_SelectSlaveMode
+                0x00000000200038d6                TIM_SelectMasterSlaveMode
+                0x000000002000390e                TIM_ETRConfig
+                0x0000000020003962                TIM_EncoderInterfaceConfig
+                0x00000000200039fa                TIM_SelectHallSensor
+                0x0000000020003a3a                TIM_RemapConfig
+ .text          0x0000000020003ca8      0xca8 ./Debug/driver_src_stm32f4xx_rcc.c.o
+                0x0000000020003ca8                RCC_DeInit
+                0x0000000020003d18                RCC_HSEConfig
+                0x0000000020003d40                RCC_WaitForHSEStartUp
+                0x0000000020003d90                RCC_AdjustHSICalibrationValue
+                0x0000000020003dcc                RCC_HSICmd
+                0x0000000020003dec                RCC_LSEConfig
+                0x0000000020003e30                RCC_LSICmd
+                0x0000000020003e50                RCC_PLLConfig
+                0x0000000020003e90                RCC_PLLCmd
+                0x0000000020003eb0                RCC_PLLI2SConfig
+                0x0000000020003edc                RCC_PLLI2SCmd
+                0x0000000020003efc                RCC_PLLSAIConfig
+                0x0000000020003f30                RCC_PLLSAICmd
+                0x0000000020003f50                RCC_ClockSecuritySystemCmd
+                0x0000000020003f70                RCC_MCO1Config
+                0x0000000020003fb0                RCC_MCO2Config
+                0x0000000020003ff0                RCC_SYSCLKConfig
+                0x0000000020004028                RCC_GetSYSCLKSource
+                0x0000000020004048                RCC_HCLKConfig
+                0x0000000020004080                RCC_PCLK1Config
+                0x00000000200040b8                RCC_PCLK2Config
+                0x00000000200040f4                RCC_GetClocksFreq
+                0x0000000020004248                RCC_RTCCLKConfig
+                0x00000000200042a4                RCC_RTCCLKCmd
+                0x00000000200042c4                RCC_BackupResetCmd
+                0x00000000200042e4                RCC_I2SCLKConfig
+                0x0000000020004304                RCC_SAIPLLI2SClkDivConfig
+                0x0000000020004344                RCC_SAIPLLSAIClkDivConfig
+                0x0000000020004384                RCC_SAIBlockACLKConfig
+                0x00000000200043c0                RCC_SAIBlockBCLKConfig
+                0x00000000200043fc                RCC_LTDCCLKDivConfig
+                0x0000000020004438                RCC_TIMCLKPresConfig
+                0x0000000020004458                RCC_AHB1PeriphClockCmd
+                0x0000000020004498                RCC_AHB2PeriphClockCmd
+                0x00000000200044d8                RCC_AHB3PeriphClockCmd
+                0x0000000020004518                RCC_APB1PeriphClockCmd
+                0x0000000020004558                RCC_APB2PeriphClockCmd
+                0x0000000020004598                RCC_AHB1PeriphResetCmd
+                0x00000000200045d8                RCC_AHB2PeriphResetCmd
+                0x0000000020004618                RCC_AHB3PeriphResetCmd
+                0x0000000020004658                RCC_APB1PeriphResetCmd
+                0x0000000020004698                RCC_APB2PeriphResetCmd
+                0x00000000200046d8                RCC_AHB1PeriphClockLPModeCmd
+                0x0000000020004718                RCC_AHB2PeriphClockLPModeCmd
+                0x0000000020004758                RCC_AHB3PeriphClockLPModeCmd
+                0x0000000020004798                RCC_APB1PeriphClockLPModeCmd
+                0x00000000200047d8                RCC_APB2PeriphClockLPModeCmd
+                0x0000000020004818                RCC_ITConfig
+                0x0000000020004864                RCC_GetFlagStatus
+                0x00000000200048d8                RCC_ClearFlag
+                0x00000000200048f8                RCC_GetITStatus
+                0x0000000020004930                RCC_ClearITPendingBit
+ .text          0x0000000020004950      0xa1c ./Debug/application.c.o
+                0x0000000020004950                from_micro_to_milli
+                0x0000000020004978                check_tempo
+                0x0000000020004ad0                button_receiver
+                0x0000000020004bb4                receiver
+                0x0000000020004c50                deliver
+                0x0000000020004cb8                reader
+                0x0000000020004e34                tone_generator
+                0x0000000020004e98                led_control
+                0x0000000020004f20                melody_player
+                0x0000000020005014                start_player
+                0x0000000020005068                set_period
+                0x00000000200050a0                set_key
+                0x00000000200050be                set_tempo
+                0x00000000200050da                unkill
+                0x00000000200050f6                kill_tone
+                0x0000000020005112                kill_player
+                0x000000002000513c                unkill_player
+                0x0000000020005158                volume_control
+                0x00000000200051dc                prepare_can_msg
+                0x000000002000520c                send_response
+                0x000000002000524c                detect_neighbors
+                0x0000000020005284                update_neighbors
+                0x00000000200052a4                startApp
+                0x0000000020005318                main
+ .text          0x000000002000536c      0x450 ./Debug/canTinyTimber.c.o
+                0x00000000200053f4                can_init
+                0x00000000200054b4                can_interrupt
+                0x000000002000563c                can_receive
+                0x0000000020005706                can_send
+ .text          0x00000000200057bc       0xf4 ./Debug/dispatch.s.o
+                0x00000000200057bc                vect_SVCall
+                0x00000000200057c0                vect_PendSV
+ .text          0x00000000200058b0       0xb8 ./Debug/startup.c.o
+ .text          0x0000000020005968      0xf80 ./Debug/TinyTimber.c.o
+                0x00000000200059f0                DUMP
+                0x0000000020005a28                DUMPH
+                0x0000000020005a84                DUMPD
+                0x0000000020005b28                sei
+                0x0000000020005b44                cli
+                0x0000000020005b60                _sbrk
+                0x0000000020005ba4                SETSTACK
+                0x0000000020005c0c                SETPC
+                0x0000000020005c30                TIMER_INIT
+                0x0000000020005cc8                DUMPC
+                0x0000000020005cfc                vect_USART1
+                0x0000000020005d64                vect_CAN1
+                0x0000000020005dcc                vect_EXTI9_5
+                0x0000000020005e34                enqueueByDeadline
+                0x0000000020005e8c                enqueueByBaseline
+                0x0000000020005ee4                dequeue
+                0x0000000020005f34                dequeue_pool
+                0x0000000020005f84                insert
+                0x0000000020005fa8                push
+                0x0000000020005fcc                pop
+                0x000000002000604e                vect_TIM5
+                0x00000000200060e0                __svc_dispatch
+                0x00000000200060f0                __pendSV_dispatch
+                0x0000000020006260                async
+                0x000000002000639c                sync
+                0x00000000200064a8                ABORT
+                0x000000002000655c                T_RESET
+                0x0000000020006598                T_SAMPLE
+                0x00000000200065d8                CURRENT_BASELINE
+                0x0000000020006610                CURRENT_OFFSET
+                0x00000000200067bc                install
+                0x0000000020006884                tinytimber
+ .text          0x00000000200068e8      0x174 ./Debug/sioTinyTimber.c.o
+                0x0000000020006970                sio_init
+                0x00000000200069a0                sio_read
+                0x00000000200069c0                sio_write
+                0x00000000200069e2                sio_toggle
+                0x0000000020006a00                sio_interrupt
+ .text          0x0000000020006a5c      0x294 ./Debug/sciTinyTimber.c.o
+                0x0000000020006ae4                sci_init
+                0x0000000020006b8a                sci_write
+                0x0000000020006bde                sci_writechar
+                0x0000000020006c14                sci_interrupt
+ .text          0x0000000020006cf0       0xc8 ./Debug/buffer.c.o
+                0x0000000020006cf0                put
+                0x0000000020006d54                get
+ .text          0x0000000020006db8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atoi.o)
+ .text          0x0000000020006db8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o)
+ .text          0x0000000020006db8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o)
+ .text          0x0000000020006db8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+ .text          0x0000000020006db8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000020006db8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+ .text          0x0000000020006db8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ *fill*         0x0000000020006db8        0x8 
+ .text          0x0000000020006dc0       0xa0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memchr.o)
+                0x0000000020006dc0                memchr
+ .text          0x0000000020006e60        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000020006e60        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .text          0x0000000020006e60        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000020006e60        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000020006e60        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .text          0x0000000020006e60        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000020006e60        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .text          0x0000000020006e60        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .text          0x0000000020006e60        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .text          0x0000000020006e60        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ *(.text.*)
+ .text.atoi     0x0000000020006e60        0x8 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atoi.o)
+                0x0000000020006e60                atoi
+ .text._atoi_r  0x0000000020006e68        0x8 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atoi.o)
+                0x0000000020006e68                _atoi_r
+ .text._snprintf_r
+                0x0000000020006e70       0x5e /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o)
+                0x0000000020006e70                _sniprintf_r
+                0x0000000020006e70                _snprintf_r
+ *fill*         0x0000000020006ece        0x2 
+ .text.snprintf
+                0x0000000020006ed0       0x68 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o)
+                0x0000000020006ed0                snprintf
+                0x0000000020006ed0                sniprintf
+ .text._strtol_l.isra.0
+                0x0000000020006f38       0xf0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o)
+ .text._strtol_r
+                0x0000000020007028        0x4 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o)
+                0x0000000020007028                _strtol_r
+ .text.strtol_l
+                0x000000002000702c       0x14 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o)
+                0x000000002000702c                strtol_l
+ .text.strtol   0x0000000020007040       0x14 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o)
+                0x0000000020007040                strtol
+ .text.__ssputs_r
+                0x0000000020007054       0xb6 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+                0x0000000020007054                __ssputs_r
+ .text.__ssprint_r
+                0x000000002000710a       0xf0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+                0x000000002000710a                __ssprint_r
+ *fill*         0x00000000200071fa        0x2 
+ .text._svfprintf_r
+                0x00000000200071fc      0x1f0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+                0x00000000200071fc                _svfprintf_r
+                0x00000000200071fc                _svfiprintf_r
+ .text._printf_common
+                0x00000000200073ec       0xea /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00000000200073ec                _printf_common
+ *fill*         0x00000000200074d6        0x2 
+ .text._printf_i
+                0x00000000200074d8      0x228 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00000000200074d8                _printf_i
+ .text.memcpy   0x0000000020007700       0x1c /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+                0x0000000020007700                memcpy
+ .text.memmove  0x000000002000771c       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+                0x000000002000771c                memmove
+ .text._free_r  0x0000000020007750       0x9c /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+                0x0000000020007750                _free_r
+ .text._malloc_r
+                0x00000000200077ec       0xb4 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                0x00000000200077ec                _malloc_r
+ .text._realloc_r
+                0x00000000200078a0       0x4c /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+                0x00000000200078a0                _realloc_r
+ .text._sbrk_r  0x00000000200078ec       0x20 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+                0x00000000200078ec                _sbrk_r
+ .text.__malloc_lock
+                0x000000002000790c        0xc /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+                0x000000002000790c                __malloc_lock
+ .text.__malloc_unlock
+                0x0000000020007918        0xc /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+                0x0000000020007918                __malloc_unlock
+ .text._malloc_usable_size_r
+                0x0000000020007924       0x10 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-msizer.o)
+                0x0000000020007924                _malloc_usable_size_r
+ .text.cleanup_glue
+                0x0000000020007934       0x1a /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+                0x0000000020007934                cleanup_glue
+ *fill*         0x000000002000794e        0x2 
+ .text._reclaim_reent
+                0x0000000020007950       0xb8 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+                0x0000000020007950                _reclaim_reent
+ .text.__retarget_lock_init
+                0x0000000020007a08        0x2 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000020007a08                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x0000000020007a0a        0x2 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000020007a0a                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x0000000020007a0c        0x2 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000020007a0c                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x0000000020007a0e        0x2 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000020007a0e                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x0000000020007a10        0x2 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000020007a10                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x0000000020007a12        0x2 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000020007a12                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x0000000020007a14        0x4 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000020007a14                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000020007a18        0x4 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000020007a18                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x0000000020007a1c        0x2 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000020007a1c                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x0000000020007a1e        0x2 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000020007a1e                __retarget_lock_release_recursive
+ *(.rodata)
+ .rodata        0x0000000020007a20       0xf9 ./Debug/application.c.o
+ *fill*         0x0000000020007b19        0x3 
+ .rodata        0x0000000020007b1c       0xb2 ./Debug/canTinyTimber.c.o
+ *fill*         0x0000000020007bce        0x2 
+ .rodata        0x0000000020007bd0       0x43 ./Debug/startup.c.o
+ *fill*         0x0000000020007c13        0x1 
+ .rodata        0x0000000020007c14       0x7d ./Debug/TinyTimber.c.o
+ *fill*         0x0000000020007c91        0x3 
+ .rodata        0x0000000020007c94       0x23 ./Debug/sioTinyTimber.c.o
+ *(.rodata*)
+ .rodata._ctype_
+                0x0000000020007cb7      0x101 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+                0x0000000020007cb7                _ctype_
+ .rodata._global_impure_ptr
+                0x0000000020007db8        0x4 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                0x0000000020007db8                _global_impure_ptr
+ .rodata._svfprintf_r.str1.1
+                0x0000000020007dbc       0x11 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+ .rodata._printf_i.str1.1
+                0x0000000020007dcd       0x22 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ *(.glue_7)
+ .glue_7        0x0000000020007def        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000020007def        0x0 linker stubs
+                0x0000000020007df0                . = ALIGN (0x4)
+ *fill*         0x0000000020007def        0x1 
+
+.vfp11_veneer   0x0000000020007df0        0x0
+ .vfp11_veneer  0x0000000020007df0        0x0 linker stubs
+
+.v4_bx          0x0000000020007df0        0x0
+ .v4_bx         0x0000000020007df0        0x0 linker stubs
+
+.iplt           0x0000000020007df0        0x0
+ .iplt          0x0000000020007df0        0x0 ./Debug/driver_src_stm32f4xx_exti.c.o
+
+.rel.dyn        0x0000000020007df0        0x0
+ .rel.iplt      0x0000000020007df0        0x0 ./Debug/driver_src_stm32f4xx_exti.c.o
+
+.data           0x0000000020007df0      0x7ac
+                0x0000000020007df0                . = ALIGN (0x4)
+ *(.data)
+ .data          0x0000000020007df0        0x0 ./Debug/driver_src_stm32f4xx_exti.c.o
+ .data          0x0000000020007df0        0x0 ./Debug/driver_src_stm32f4xx_can.c.o
+ .data          0x0000000020007df0        0x0 ./Debug/driver_src_stm32f4xx_usart.c.o
+ .data          0x0000000020007df0        0x0 ./Debug/driver_src_stm32f4xx_gpio.c.o
+ .data          0x0000000020007df0        0x0 ./Debug/driver_src_stm32f4xx_tim.c.o
+ .data          0x0000000020007df0       0x10 ./Debug/driver_src_stm32f4xx_rcc.c.o
+ .data          0x0000000020007e00      0x690 ./Debug/application.c.o
+                0x0000000020007e00                DAC_OUTPUT
+                0x0000000020007e04                LEADER
+                0x0000000020007e08                freqind
+                0x0000000020007e88                periods
+                0x0000000020007eec                beats
+                0x0000000020007f6c                s
+                0x0000000020007f98                b
+                0x0000000020007fc4                m
+                0x0000000020007fe0                sci0
+                0x0000000020008400                can0
+                0x000000002000847c                sysio
+ .data          0x0000000020008490        0x0 ./Debug/canTinyTimber.c.o
+ .data          0x0000000020008490       0x84 ./Debug/dispatch.s.o
+ .data          0x0000000020008514        0x0 ./Debug/startup.c.o
+ .data          0x0000000020008514       0x24 ./Debug/TinyTimber.c.o
+                0x0000000020008514                hex
+                0x0000000020008528                msgPool
+                0x000000002000852c                threadPool
+                0x0000000020008530                activeStack
+                0x0000000020008534                current
+ .data          0x0000000020008538        0x0 ./Debug/sioTinyTimber.c.o
+ .data          0x0000000020008538        0x0 ./Debug/sciTinyTimber.c.o
+ .data          0x0000000020008538        0x0 ./Debug/buffer.c.o
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atoi.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memchr.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000020008538        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ *(.data.*)
+ .data._impure_ptr
+                0x0000000020008538        0x4 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                0x0000000020008538                _impure_ptr
+ .data.impure_data
+                0x000000002000853c       0x60 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                0x000000002000859c                . = ALIGN (0x4)
+
+.igot.plt       0x000000002000859c        0x0
+ .igot.plt      0x000000002000859c        0x0 ./Debug/driver_src_stm32f4xx_exti.c.o
+
+.bss            0x00000000200085a0     0x8498
+                0x00000000200085a0                . = ALIGN (0x4)
+                0x00000000200085a0                _sbss = .
+ *(.bss)
+ .bss           0x00000000200085a0        0x0 ./Debug/driver_src_stm32f4xx_exti.c.o
+ .bss           0x00000000200085a0        0x0 ./Debug/driver_src_stm32f4xx_can.c.o
+ .bss           0x00000000200085a0        0x0 ./Debug/driver_src_stm32f4xx_usart.c.o
+ .bss           0x00000000200085a0        0x0 ./Debug/driver_src_stm32f4xx_gpio.c.o
+ .bss           0x00000000200085a0        0x0 ./Debug/driver_src_stm32f4xx_tim.c.o
+ .bss           0x00000000200085a0        0x0 ./Debug/driver_src_stm32f4xx_rcc.c.o
+ .bss           0x00000000200085a0      0x110 ./Debug/application.c.o
+                0x00000000200085a0                app
+                0x0000000020008654                btn
+                0x0000000020008674                circbuff
+ .bss           0x00000000200086b0        0x0 ./Debug/canTinyTimber.c.o
+ .bss           0x00000000200086b0        0x0 ./Debug/dispatch.s.o
+ .bss           0x00000000200086b0        0x0 ./Debug/startup.c.o
+ .bss           0x00000000200086b0       0x18 ./Debug/TinyTimber.c.o
+                0x00000000200086b0                doIRQSchedule
+                0x00000000200086b4                msgQ
+                0x00000000200086b8                timerQ
+                0x00000000200086bc                runAsHardware
+                0x00000000200086c0                timestamp
+                0x00000000200086c4                overflows
+ .bss           0x00000000200086c8        0x0 ./Debug/sioTinyTimber.c.o
+ .bss           0x00000000200086c8        0x0 ./Debug/sciTinyTimber.c.o
+ .bss           0x00000000200086c8        0x0 ./Debug/buffer.c.o
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atoi.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memchr.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .bss           0x00000000200086c8        0x0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ *(.bss.*)
+ .bss.__malloc_free_list
+                0x00000000200086c8        0x4 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                0x00000000200086c8                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x00000000200086cc        0x4 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                0x00000000200086cc                __malloc_sbrk_start
+ *(COMMON)
+ COMMON         0x00000000200086d0        0x0 ./Debug/application.c.o
+ COMMON         0x00000000200086d0     0x8358 ./Debug/TinyTimber.c.o
+                0x00000000200086d0                otable
+                0x00000000200086dc                upcoming
+                0x00000000200086e0                threads
+                0x0000000020008730                mtable
+                0x000000002000873c                thread0
+                0x0000000020008750                messages
+                0x0000000020008a20                __heap_end
+                0x0000000020008a28                stacks
+ COMMON         0x0000000020010a28        0x4 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+                0x0000000020010a28                errno
+ COMMON         0x0000000020010a2c        0x9 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                0x0000000020010a2c                __lock___atexit_recursive_mutex
+                0x0000000020010a2d                __lock___arc4random_mutex
+                0x0000000020010a2e                __lock___env_recursive_mutex
+                0x0000000020010a2f                __lock___sinit_recursive_mutex
+                0x0000000020010a30                __lock___malloc_recursive_mutex
+                0x0000000020010a31                __lock___at_quick_exit_mutex
+                0x0000000020010a32                __lock___dd_hash_mutex
+                0x0000000020010a33                __lock___tz_mutex
+                0x0000000020010a34                __lock___sfp_recursive_mutex
+                0x0000000020010a38                . = ALIGN (0x4)
+ *fill*         0x0000000020010a35        0x3 
+                0x0000000020010a38                _ebss = .
+                0x0000000020010a38                PROVIDE (end = _ebss)
+                [!provide]                        PROVIDE (_end = _ebss)
+OUTPUT(./Debug/RTS-Lab.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0xa7b6
+ .debug_info    0x0000000000000000      0x383 ./Debug/driver_src_stm32f4xx_exti.c.o
+ .debug_info    0x0000000000000383      0xc60 ./Debug/driver_src_stm32f4xx_can.c.o
+ .debug_info    0x0000000000000fe3      0xa68 ./Debug/driver_src_stm32f4xx_usart.c.o
+ .debug_info    0x0000000000001a4b      0x67f ./Debug/driver_src_stm32f4xx_gpio.c.o
+ .debug_info    0x00000000000020ca     0x1e26 ./Debug/driver_src_stm32f4xx_tim.c.o
+ .debug_info    0x0000000000003ef0      0xef4 ./Debug/driver_src_stm32f4xx_rcc.c.o
+ .debug_info    0x0000000000004de4     0x1a17 ./Debug/application.c.o
+ .debug_info    0x00000000000067fb      0xdd6 ./Debug/canTinyTimber.c.o
+ .debug_info    0x00000000000075d1      0x3f8 ./Debug/startup.c.o
+ .debug_info    0x00000000000079c9     0x18b9 ./Debug/TinyTimber.c.o
+ .debug_info    0x0000000000009282      0x961 ./Debug/sioTinyTimber.c.o
+ .debug_info    0x0000000000009be3      0x9d7 ./Debug/sciTinyTimber.c.o
+ .debug_info    0x000000000000a5ba      0x1fc ./Debug/buffer.c.o
+
+.debug_abbrev   0x0000000000000000     0x1e1e
+ .debug_abbrev  0x0000000000000000      0x1ea ./Debug/driver_src_stm32f4xx_exti.c.o
+ .debug_abbrev  0x00000000000001ea      0x238 ./Debug/driver_src_stm32f4xx_can.c.o
+ .debug_abbrev  0x0000000000000422      0x1a8 ./Debug/driver_src_stm32f4xx_usart.c.o
+ .debug_abbrev  0x00000000000005ca      0x1e6 ./Debug/driver_src_stm32f4xx_gpio.c.o
+ .debug_abbrev  0x00000000000007b0      0x1c2 ./Debug/driver_src_stm32f4xx_tim.c.o
+ .debug_abbrev  0x0000000000000972      0x1f9 ./Debug/driver_src_stm32f4xx_rcc.c.o
+ .debug_abbrev  0x0000000000000b6b      0x36d ./Debug/application.c.o
+ .debug_abbrev  0x0000000000000ed8      0x28a ./Debug/canTinyTimber.c.o
+ .debug_abbrev  0x0000000000001162      0x1ca ./Debug/startup.c.o
+ .debug_abbrev  0x000000000000132c      0x4e3 ./Debug/TinyTimber.c.o
+ .debug_abbrev  0x000000000000180f      0x256 ./Debug/sioTinyTimber.c.o
+ .debug_abbrev  0x0000000000001a65      0x286 ./Debug/sciTinyTimber.c.o
+ .debug_abbrev  0x0000000000001ceb      0x133 ./Debug/buffer.c.o
+
+.debug_aranges  0x0000000000000000      0x1a8
+ .debug_aranges
+                0x0000000000000000       0x20 ./Debug/driver_src_stm32f4xx_exti.c.o
+ .debug_aranges
+                0x0000000000000020       0x20 ./Debug/driver_src_stm32f4xx_can.c.o
+ .debug_aranges
+                0x0000000000000040       0x20 ./Debug/driver_src_stm32f4xx_usart.c.o
+ .debug_aranges
+                0x0000000000000060       0x20 ./Debug/driver_src_stm32f4xx_gpio.c.o
+ .debug_aranges
+                0x0000000000000080       0x20 ./Debug/driver_src_stm32f4xx_tim.c.o
+ .debug_aranges
+                0x00000000000000a0       0x20 ./Debug/driver_src_stm32f4xx_rcc.c.o
+ .debug_aranges
+                0x00000000000000c0       0x20 ./Debug/application.c.o
+ .debug_aranges
+                0x00000000000000e0       0x20 ./Debug/canTinyTimber.c.o
+ .debug_aranges
+                0x0000000000000100       0x28 ./Debug/startup.c.o
+ .debug_aranges
+                0x0000000000000128       0x20 ./Debug/TinyTimber.c.o
+ .debug_aranges
+                0x0000000000000148       0x20 ./Debug/sioTinyTimber.c.o
+ .debug_aranges
+                0x0000000000000168       0x20 ./Debug/sciTinyTimber.c.o
+ .debug_aranges
+                0x0000000000000188       0x20 ./Debug/buffer.c.o
+
+.debug_line     0x0000000000000000     0x5326
+ .debug_line    0x0000000000000000      0x405 ./Debug/driver_src_stm32f4xx_exti.c.o
+ .debug_line    0x0000000000000405      0x9ef ./Debug/driver_src_stm32f4xx_can.c.o
+ .debug_line    0x0000000000000df4      0x698 ./Debug/driver_src_stm32f4xx_usart.c.o
+ .debug_line    0x000000000000148c      0x536 ./Debug/driver_src_stm32f4xx_gpio.c.o
+ .debug_line    0x00000000000019c2      0xcab ./Debug/driver_src_stm32f4xx_tim.c.o
+ .debug_line    0x000000000000266d      0x88e ./Debug/driver_src_stm32f4xx_rcc.c.o
+ .debug_line    0x0000000000002efb      0x6a8 ./Debug/application.c.o
+ .debug_line    0x00000000000035a3      0x53e ./Debug/canTinyTimber.c.o
+ .debug_line    0x0000000000003ae1      0x2af ./Debug/startup.c.o
+ .debug_line    0x0000000000003d90      0xbd2 ./Debug/TinyTimber.c.o
+ .debug_line    0x0000000000004962      0x396 ./Debug/sioTinyTimber.c.o
+ .debug_line    0x0000000000004cf8      0x389 ./Debug/sciTinyTimber.c.o
+ .debug_line    0x0000000000005081      0x2a5 ./Debug/buffer.c.o
+
+.debug_str      0x0000000000000000     0x38c8
+ .debug_str     0x0000000000000000      0x3c1 ./Debug/driver_src_stm32f4xx_exti.c.o
+                                        0x42a (size before relaxing)
+ .debug_str     0x00000000000003c1      0x5c6 ./Debug/driver_src_stm32f4xx_can.c.o
+                                        0x81c (size before relaxing)
+ .debug_str     0x0000000000000987      0x4e2 ./Debug/driver_src_stm32f4xx_usart.c.o
+                                        0x76d (size before relaxing)
+ .debug_str     0x0000000000000e69      0x370 ./Debug/driver_src_stm32f4xx_gpio.c.o
+                                        0x581 (size before relaxing)
+ .debug_str     0x00000000000011d9      0xbd1 ./Debug/driver_src_stm32f4xx_tim.c.o
+                                        0xeae (size before relaxing)
+ .debug_str     0x0000000000001daa      0x770 ./Debug/driver_src_stm32f4xx_rcc.c.o
+                                        0xa73 (size before relaxing)
+ .debug_str     0x000000000000251a      0x71f ./Debug/application.c.o
+                                        0xade (size before relaxing)
+ .debug_str     0x0000000000002c39      0x68e ./Debug/canTinyTimber.c.o
+                                        0xafe (size before relaxing)
+ .debug_str     0x00000000000032c7       0xf1 ./Debug/startup.c.o
+                                        0x347 (size before relaxing)
+ .debug_str     0x00000000000033b8      0x31c ./Debug/TinyTimber.c.o
+                                        0xd42 (size before relaxing)
+ .debug_str     0x00000000000036d4       0xbb ./Debug/sioTinyTimber.c.o
+                                        0x95b (size before relaxing)
+ .debug_str     0x000000000000378f       0xba ./Debug/sciTinyTimber.c.o
+                                        0x951 (size before relaxing)
+ .debug_str     0x0000000000003849       0x7f ./Debug/buffer.c.o
+                                        0x2ad (size before relaxing)
+
+.comment        0x0000000000000000       0x75
+ .comment       0x0000000000000000       0x75 ./Debug/driver_src_stm32f4xx_exti.c.o
+                                         0x76 (size before relaxing)
+ .comment       0x0000000000000075       0x76 ./Debug/driver_src_stm32f4xx_can.c.o
+ .comment       0x0000000000000075       0x76 ./Debug/driver_src_stm32f4xx_usart.c.o
+ .comment       0x0000000000000075       0x76 ./Debug/driver_src_stm32f4xx_gpio.c.o
+ .comment       0x0000000000000075       0x76 ./Debug/driver_src_stm32f4xx_tim.c.o
+ .comment       0x0000000000000075       0x76 ./Debug/driver_src_stm32f4xx_rcc.c.o
+ .comment       0x0000000000000075       0x76 ./Debug/application.c.o
+ .comment       0x0000000000000075       0x76 ./Debug/canTinyTimber.c.o
+ .comment       0x0000000000000075       0x76 ./Debug/startup.c.o
+ .comment       0x0000000000000075       0x76 ./Debug/TinyTimber.c.o
+ .comment       0x0000000000000075       0x76 ./Debug/sioTinyTimber.c.o
+ .comment       0x0000000000000075       0x76 ./Debug/sciTinyTimber.c.o
+ .comment       0x0000000000000075       0x76 ./Debug/buffer.c.o
+
+.ARM.attributes
+                0x0000000000000000       0x32
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Debug/driver_src_stm32f4xx_exti.c.o
+ .ARM.attributes
+                0x0000000000000034       0x34 ./Debug/driver_src_stm32f4xx_can.c.o
+ .ARM.attributes
+                0x0000000000000068       0x34 ./Debug/driver_src_stm32f4xx_usart.c.o
+ .ARM.attributes
+                0x000000000000009c       0x34 ./Debug/driver_src_stm32f4xx_gpio.c.o
+ .ARM.attributes
+                0x00000000000000d0       0x34 ./Debug/driver_src_stm32f4xx_tim.c.o
+ .ARM.attributes
+                0x0000000000000104       0x34 ./Debug/driver_src_stm32f4xx_rcc.c.o
+ .ARM.attributes
+                0x0000000000000138       0x34 ./Debug/application.c.o
+ .ARM.attributes
+                0x000000000000016c       0x34 ./Debug/canTinyTimber.c.o
+ .ARM.attributes
+                0x00000000000001a0       0x25 ./Debug/dispatch.s.o
+ .ARM.attributes
+                0x00000000000001c5       0x34 ./Debug/startup.c.o
+ .ARM.attributes
+                0x00000000000001f9       0x34 ./Debug/TinyTimber.c.o
+ .ARM.attributes
+                0x000000000000022d       0x34 ./Debug/sioTinyTimber.c.o
+ .ARM.attributes
+                0x0000000000000261       0x34 ./Debug/sciTinyTimber.c.o
+ .ARM.attributes
+                0x0000000000000295       0x34 ./Debug/buffer.c.o
+ .ARM.attributes
+                0x00000000000002c9       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atoi.o)
+ .ARM.attributes
+                0x00000000000002fd       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o)
+ .ARM.attributes
+                0x0000000000000331       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x0000000000000365       0x32 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x0000000000000397       0x32 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000003c9       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x00000000000003fd       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x0000000000000431       0x1c /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x000000000000044d       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000481       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000000000004b5       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000000000004e9       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x000000000000051d       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x0000000000000551       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000585       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000000005b9       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x00000000000005ed       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000621       0x34 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+
+.debug_frame    0x0000000000000000     0x345c
+ .debug_frame   0x0000000000000000      0x148 ./Debug/driver_src_stm32f4xx_exti.c.o
+ .debug_frame   0x0000000000000148      0x3f4 ./Debug/driver_src_stm32f4xx_can.c.o
+ .debug_frame   0x000000000000053c      0x490 ./Debug/driver_src_stm32f4xx_usart.c.o
+ .debug_frame   0x00000000000009cc      0x23c ./Debug/driver_src_stm32f4xx_gpio.c.o
+ .debug_frame   0x0000000000000c08      0xe54 ./Debug/driver_src_stm32f4xx_tim.c.o
+ .debug_frame   0x0000000000001a5c      0x814 ./Debug/driver_src_stm32f4xx_rcc.c.o
+ .debug_frame   0x0000000000002270      0x398 ./Debug/application.c.o
+ .debug_frame   0x0000000000002608      0x100 ./Debug/canTinyTimber.c.o
+ .debug_frame   0x0000000000002708       0xa4 ./Debug/startup.c.o
+ .debug_frame   0x00000000000027ac      0x5a4 ./Debug/TinyTimber.c.o
+ .debug_frame   0x0000000000002d50      0x114 ./Debug/sioTinyTimber.c.o
+ .debug_frame   0x0000000000002e64      0x11c ./Debug/sciTinyTimber.c.o
+ .debug_frame   0x0000000000002f80       0x60 ./Debug/buffer.c.o
+ .debug_frame   0x0000000000002fe0       0x30 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atoi.o)
+ .debug_frame   0x0000000000003010       0x7c /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o)
+ .debug_frame   0x000000000000308c       0x64 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o)
+ .debug_frame   0x00000000000030f0       0x90 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x0000000000003180       0x60 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00000000000031e0       0x28 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000003208       0x28 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000003230       0x38 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000003268       0x30 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000003298       0x3c /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x00000000000032d4       0x2c /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000003300       0x30 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000003330       0x20 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000000000003350       0x5c /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x00000000000033ac       0xb0 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+
+.debug_ranges   0x0000000000000000       0x18
+ .debug_ranges  0x0000000000000000       0x18 ./Debug/startup.c.o
+
+Cross Reference Table
+
+Symbol                                            File
+ABORT                                             ./Debug/TinyTimber.c.o
+CAN_CancelTransmit                                ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_ClearFlag                                     ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_ClearITPendingBit                             ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_DBGFreeze                                     ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_DeInit                                        ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_FIFORelease                                   ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_FilterInit                                    ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_GetFlagStatus                                 ./Debug/driver_src_stm32f4xx_can.c.o
+                                                  ./Debug/canTinyTimber.c.o
+CAN_GetITStatus                                   ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_GetLSBTransmitErrorCounter                    ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_GetLastErrorCode                              ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_GetReceiveErrorCounter                        ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_ITConfig                                      ./Debug/driver_src_stm32f4xx_can.c.o
+                                                  ./Debug/canTinyTimber.c.o
+CAN_Init                                          ./Debug/driver_src_stm32f4xx_can.c.o
+                                                  ./Debug/canTinyTimber.c.o
+CAN_MessagePending                                ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_OperatingModeRequest                          ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_Receive                                       ./Debug/driver_src_stm32f4xx_can.c.o
+                                                  ./Debug/canTinyTimber.c.o
+CAN_SlaveStartBank                                ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_Sleep                                         ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_StructInit                                    ./Debug/driver_src_stm32f4xx_can.c.o
+                                                  ./Debug/canTinyTimber.c.o
+CAN_TTComModeCmd                                  ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_Transmit                                      ./Debug/driver_src_stm32f4xx_can.c.o
+                                                  ./Debug/canTinyTimber.c.o
+CAN_TransmitStatus                                ./Debug/driver_src_stm32f4xx_can.c.o
+CAN_WakeUp                                        ./Debug/driver_src_stm32f4xx_can.c.o
+CURRENT_BASELINE                                  ./Debug/TinyTimber.c.o
+                                                  ./Debug/application.c.o
+CURRENT_OFFSET                                    ./Debug/TinyTimber.c.o
+DAC_OUTPUT                                        ./Debug/application.c.o
+DUMP                                              ./Debug/TinyTimber.c.o
+                                                  ./Debug/sioTinyTimber.c.o
+                                                  ./Debug/startup.c.o
+                                                  ./Debug/dispatch.s.o
+                                                  ./Debug/canTinyTimber.c.o
+DUMPC                                             ./Debug/TinyTimber.c.o
+DUMPD                                             ./Debug/TinyTimber.c.o
+                                                  ./Debug/dispatch.s.o
+DUMPH                                             ./Debug/TinyTimber.c.o
+                                                  ./Debug/dispatch.s.o
+EXTI_ClearFlag                                    ./Debug/driver_src_stm32f4xx_exti.c.o
+EXTI_ClearITPendingBit                            ./Debug/driver_src_stm32f4xx_exti.c.o
+                                                  ./Debug/sioTinyTimber.c.o
+EXTI_DeInit                                       ./Debug/driver_src_stm32f4xx_exti.c.o
+EXTI_GenerateSWInterrupt                          ./Debug/driver_src_stm32f4xx_exti.c.o
+EXTI_GetFlagStatus                                ./Debug/driver_src_stm32f4xx_exti.c.o
+EXTI_GetITStatus                                  ./Debug/driver_src_stm32f4xx_exti.c.o
+                                                  ./Debug/sioTinyTimber.c.o
+EXTI_Init                                         ./Debug/driver_src_stm32f4xx_exti.c.o
+EXTI_StructInit                                   ./Debug/driver_src_stm32f4xx_exti.c.o
+GPIO_DeInit                                       ./Debug/driver_src_stm32f4xx_gpio.c.o
+GPIO_Init                                         ./Debug/driver_src_stm32f4xx_gpio.c.o
+GPIO_PinAFConfig                                  ./Debug/driver_src_stm32f4xx_gpio.c.o
+GPIO_PinLockConfig                                ./Debug/driver_src_stm32f4xx_gpio.c.o
+GPIO_ReadInputData                                ./Debug/driver_src_stm32f4xx_gpio.c.o
+GPIO_ReadInputDataBit                             ./Debug/driver_src_stm32f4xx_gpio.c.o
+                                                  ./Debug/sioTinyTimber.c.o
+GPIO_ReadOutputData                               ./Debug/driver_src_stm32f4xx_gpio.c.o
+GPIO_ReadOutputDataBit                            ./Debug/driver_src_stm32f4xx_gpio.c.o
+GPIO_ResetBits                                    ./Debug/driver_src_stm32f4xx_gpio.c.o
+GPIO_SetBits                                      ./Debug/driver_src_stm32f4xx_gpio.c.o
+GPIO_StructInit                                   ./Debug/driver_src_stm32f4xx_gpio.c.o
+GPIO_ToggleBits                                   ./Debug/driver_src_stm32f4xx_gpio.c.o
+                                                  ./Debug/sioTinyTimber.c.o
+GPIO_Write                                        ./Debug/driver_src_stm32f4xx_gpio.c.o
+GPIO_WriteBit                                     ./Debug/driver_src_stm32f4xx_gpio.c.o
+                                                  ./Debug/sioTinyTimber.c.o
+                                                  ./Debug/TinyTimber.c.o
+LEADER                                            ./Debug/application.c.o
+RCC_AHB1PeriphClockCmd                            ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_AHB1PeriphClockLPModeCmd                      ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_AHB1PeriphResetCmd                            ./Debug/driver_src_stm32f4xx_rcc.c.o
+                                                  ./Debug/driver_src_stm32f4xx_gpio.c.o
+RCC_AHB2PeriphClockCmd                            ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_AHB2PeriphClockLPModeCmd                      ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_AHB2PeriphResetCmd                            ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_AHB3PeriphClockCmd                            ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_AHB3PeriphClockLPModeCmd                      ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_AHB3PeriphResetCmd                            ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_APB1PeriphClockCmd                            ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_APB1PeriphClockLPModeCmd                      ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_APB1PeriphResetCmd                            ./Debug/driver_src_stm32f4xx_rcc.c.o
+                                                  ./Debug/driver_src_stm32f4xx_tim.c.o
+                                                  ./Debug/driver_src_stm32f4xx_usart.c.o
+                                                  ./Debug/driver_src_stm32f4xx_can.c.o
+RCC_APB2PeriphClockCmd                            ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_APB2PeriphClockLPModeCmd                      ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_APB2PeriphResetCmd                            ./Debug/driver_src_stm32f4xx_rcc.c.o
+                                                  ./Debug/driver_src_stm32f4xx_tim.c.o
+                                                  ./Debug/driver_src_stm32f4xx_usart.c.o
+RCC_AdjustHSICalibrationValue                     ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_BackupResetCmd                                ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_ClearFlag                                     ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_ClearITPendingBit                             ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_ClockSecuritySystemCmd                        ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_DeInit                                        ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_GetClocksFreq                                 ./Debug/driver_src_stm32f4xx_rcc.c.o
+                                                  ./Debug/driver_src_stm32f4xx_usart.c.o
+RCC_GetFlagStatus                                 ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_GetITStatus                                   ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_GetSYSCLKSource                               ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_HCLKConfig                                    ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_HSEConfig                                     ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_HSICmd                                        ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_I2SCLKConfig                                  ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_ITConfig                                      ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_LSEConfig                                     ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_LSICmd                                        ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_LTDCCLKDivConfig                              ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_MCO1Config                                    ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_MCO2Config                                    ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_PCLK1Config                                   ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_PCLK2Config                                   ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_PLLCmd                                        ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_PLLConfig                                     ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_PLLI2SCmd                                     ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_PLLI2SConfig                                  ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_PLLSAICmd                                     ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_PLLSAIConfig                                  ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_RTCCLKCmd                                     ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_RTCCLKConfig                                  ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_SAIBlockACLKConfig                            ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_SAIBlockBCLKConfig                            ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_SAIPLLI2SClkDivConfig                         ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_SAIPLLSAIClkDivConfig                         ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_SYSCLKConfig                                  ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_TIMCLKPresConfig                              ./Debug/driver_src_stm32f4xx_rcc.c.o
+RCC_WaitForHSEStartUp                             ./Debug/driver_src_stm32f4xx_rcc.c.o
+SETPC                                             ./Debug/TinyTimber.c.o
+SETSTACK                                          ./Debug/TinyTimber.c.o
+TIMER_INIT                                        ./Debug/TinyTimber.c.o
+TIM_ARRPreloadConfig                              ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_BDTRConfig                                    ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_BDTRStructInit                                ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_CCPreloadControl                              ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_CCxCmd                                        ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_CCxNCmd                                       ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_ClearFlag                                     ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_ClearITPendingBit                             ./Debug/driver_src_stm32f4xx_tim.c.o
+                                                  ./Debug/TinyTimber.c.o
+TIM_ClearOC1Ref                                   ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_ClearOC2Ref                                   ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_ClearOC3Ref                                   ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_ClearOC4Ref                                   ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_Cmd                                           ./Debug/driver_src_stm32f4xx_tim.c.o
+                                                  ./Debug/TinyTimber.c.o
+TIM_CounterModeConfig                             ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_CtrlPWMOutputs                                ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_DMACmd                                        ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_DMAConfig                                     ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_DeInit                                        ./Debug/driver_src_stm32f4xx_tim.c.o
+                                                  ./Debug/TinyTimber.c.o
+TIM_ETRClockMode1Config                           ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_ETRClockMode2Config                           ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_ETRConfig                                     ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_EncoderInterfaceConfig                        ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_ForcedOC1Config                               ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_ForcedOC2Config                               ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_ForcedOC3Config                               ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_ForcedOC4Config                               ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_GenerateEvent                                 ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_GetCapture1                                   ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_GetCapture2                                   ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_GetCapture3                                   ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_GetCapture4                                   ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_GetCounter                                    ./Debug/driver_src_stm32f4xx_tim.c.o
+                                                  ./Debug/TinyTimber.c.o
+TIM_GetFlagStatus                                 ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_GetITStatus                                   ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_GetPrescaler                                  ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_ICInit                                        ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_ICStructInit                                  ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_ITConfig                                      ./Debug/driver_src_stm32f4xx_tim.c.o
+                                                  ./Debug/TinyTimber.c.o
+TIM_ITRxExternalClockConfig                       ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_InternalClockConfig                           ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC1FastConfig                                 ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC1Init                                       ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC1NPolarityConfig                            ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC1PolarityConfig                             ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC1PreloadConfig                              ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC2FastConfig                                 ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC2Init                                       ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC2NPolarityConfig                            ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC2PolarityConfig                             ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC2PreloadConfig                              ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC3FastConfig                                 ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC3Init                                       ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC3NPolarityConfig                            ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC3PolarityConfig                             ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC3PreloadConfig                              ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC4FastConfig                                 ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC4Init                                       ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC4PolarityConfig                             ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OC4PreloadConfig                              ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_OCStructInit                                  ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_PWMIConfig                                    ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_PrescalerConfig                               ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_RemapConfig                                   ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SelectCCDMA                                   ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SelectCOM                                     ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SelectHallSensor                              ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SelectInputTrigger                            ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SelectMasterSlaveMode                         ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SelectOCxM                                    ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SelectOnePulseMode                            ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SelectOutputTrigger                           ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SelectSlaveMode                               ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SetAutoreload                                 ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SetClockDivision                              ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SetCompare1                                   ./Debug/driver_src_stm32f4xx_tim.c.o
+                                                  ./Debug/TinyTimber.c.o
+TIM_SetCompare2                                   ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SetCompare3                                   ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SetCompare4                                   ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SetCounter                                    ./Debug/driver_src_stm32f4xx_tim.c.o
+                                                  ./Debug/TinyTimber.c.o
+TIM_SetIC1Prescaler                               ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SetIC2Prescaler                               ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SetIC3Prescaler                               ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_SetIC4Prescaler                               ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_TIxExternalClockConfig                        ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_TimeBaseInit                                  ./Debug/driver_src_stm32f4xx_tim.c.o
+                                                  ./Debug/TinyTimber.c.o
+TIM_TimeBaseStructInit                            ./Debug/driver_src_stm32f4xx_tim.c.o
+                                                  ./Debug/TinyTimber.c.o
+TIM_UpdateDisableConfig                           ./Debug/driver_src_stm32f4xx_tim.c.o
+TIM_UpdateRequestConfig                           ./Debug/driver_src_stm32f4xx_tim.c.o
+T_RESET                                           ./Debug/TinyTimber.c.o
+T_SAMPLE                                          ./Debug/TinyTimber.c.o
+USART_ClearFlag                                   ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_ClearITPendingBit                           ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_ClockInit                                   ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_ClockStructInit                             ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_Cmd                                         ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_DMACmd                                      ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_DeInit                                      ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_GetFlagStatus                               ./Debug/driver_src_stm32f4xx_usart.c.o
+                                                  ./Debug/sciTinyTimber.c.o
+                                                  ./Debug/TinyTimber.c.o
+USART_GetITStatus                                 ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_HalfDuplexCmd                               ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_ITConfig                                    ./Debug/driver_src_stm32f4xx_usart.c.o
+                                                  ./Debug/sciTinyTimber.c.o
+USART_Init                                        ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_IrDACmd                                     ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_IrDAConfig                                  ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_LINBreakDetectLengthConfig                  ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_LINCmd                                      ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_OneBitMethodCmd                             ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_OverSampling8Cmd                            ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_ReceiveData                                 ./Debug/driver_src_stm32f4xx_usart.c.o
+                                                  ./Debug/sciTinyTimber.c.o
+USART_ReceiverWakeUpCmd                           ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_SendBreak                                   ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_SendData                                    ./Debug/driver_src_stm32f4xx_usart.c.o
+                                                  ./Debug/sciTinyTimber.c.o
+                                                  ./Debug/TinyTimber.c.o
+USART_SetAddress                                  ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_SetGuardTime                                ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_SetPrescaler                                ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_SmartCardCmd                                ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_SmartCardNACKCmd                            ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_StructInit                                  ./Debug/driver_src_stm32f4xx_usart.c.o
+USART_WakeUpConfig                                ./Debug/driver_src_stm32f4xx_usart.c.o
+__heap_end                                        ./Debug/TinyTimber.c.o
+__lock___arc4random_mutex                         /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex                      /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___atexit_recursive_mutex                   /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___dd_hash_mutex                            /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___env_recursive_mutex                      /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex                   /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+__lock___sfp_recursive_mutex                      /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex                    /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___tz_mutex                                 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__malloc_free_list                                /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+__malloc_lock                                     /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+__malloc_sbrk_start                               /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+__malloc_unlock                                   /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+__pendSV_dispatch                                 ./Debug/TinyTimber.c.o
+__retarget_lock_acquire                           /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__retarget_lock_acquire_recursive                 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+__retarget_lock_close                             /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__retarget_lock_close_recursive                   /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__retarget_lock_init                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__retarget_lock_init_recursive                    /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__retarget_lock_release                           /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__retarget_lock_release_recursive                 /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+__retarget_lock_try_acquire                       /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__retarget_lock_try_acquire_recursive             /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__sf_fake_stderr                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+__ssprint_r                                       /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+__ssputs_r                                        /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+__svc_dispatch                                    ./Debug/TinyTimber.c.o
+_atoi_r                                           /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atoi.o)
+_ctype_                                           /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o)
+_ebss                                             ./Debug/startup.c.o
+_free_r                                           /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+_global_impure_ptr                                /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+_impure_ptr                                       /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o)
+_malloc_r                                         /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+_malloc_usable_size_r                             /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-msizer.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+_printf_common                                    /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+_printf_float                                     /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+_printf_i                                         /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+_realloc_r                                        /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+_reclaim_reent                                    /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+_sbrk                                             ./Debug/TinyTimber.c.o
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+_sbrk_r                                           /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+_sbss                                             ./Debug/startup.c.o
+_sniprintf_r                                      /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o)
+_snprintf_r                                       /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o)
+_strtol_r                                         /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atoi.o)
+_svfiprintf_r                                     /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+_svfprintf_r                                      /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o)
+activeStack                                       ./Debug/TinyTimber.c.o
+app                                               ./Debug/application.c.o
+async                                             ./Debug/TinyTimber.c.o
+                                                  ./Debug/sciTinyTimber.c.o
+                                                  ./Debug/sioTinyTimber.c.o
+                                                  ./Debug/canTinyTimber.c.o
+                                                  ./Debug/application.c.o
+atoi                                              /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atoi.o)
+                                                  ./Debug/application.c.o
+b                                                 ./Debug/application.c.o
+beats                                             ./Debug/application.c.o
+btn                                               ./Debug/application.c.o
+button_receiver                                   ./Debug/application.c.o
+can0                                              ./Debug/application.c.o
+can_init                                          ./Debug/canTinyTimber.c.o
+                                                  ./Debug/application.c.o
+can_interrupt                                     ./Debug/canTinyTimber.c.o
+                                                  ./Debug/application.c.o
+can_receive                                       ./Debug/canTinyTimber.c.o
+                                                  ./Debug/application.c.o
+can_send                                          ./Debug/canTinyTimber.c.o
+                                                  ./Debug/application.c.o
+check_tempo                                       ./Debug/application.c.o
+circbuff                                          ./Debug/application.c.o
+cleanup_glue                                      /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+cli                                               ./Debug/TinyTimber.c.o
+current                                           ./Debug/TinyTimber.c.o
+                                                  ./Debug/dispatch.s.o
+deliver                                           ./Debug/application.c.o
+dequeue                                           ./Debug/TinyTimber.c.o
+dequeue_pool                                      ./Debug/TinyTimber.c.o
+detect_neighbors                                  ./Debug/application.c.o
+doIRQSchedule                                     ./Debug/TinyTimber.c.o
+                                                  ./Debug/buffer.c.o
+                                                  ./Debug/sciTinyTimber.c.o
+                                                  ./Debug/sioTinyTimber.c.o
+                                                  ./Debug/canTinyTimber.c.o
+                                                  ./Debug/application.c.o
+end                                               ./Debug/TinyTimber.c.o
+enqueueByBaseline                                 ./Debug/TinyTimber.c.o
+enqueueByDeadline                                 ./Debug/TinyTimber.c.o
+errno                                             /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+freqind                                           ./Debug/application.c.o
+from_micro_to_milli                               ./Debug/application.c.o
+get                                               ./Debug/buffer.c.o
+                                                  ./Debug/application.c.o
+hex                                               ./Debug/TinyTimber.c.o
+insert                                            ./Debug/TinyTimber.c.o
+install                                           ./Debug/TinyTimber.c.o
+                                                  ./Debug/application.c.o
+kill_player                                       ./Debug/application.c.o
+kill_tone                                         ./Debug/application.c.o
+led_control                                       ./Debug/application.c.o
+m                                                 ./Debug/application.c.o
+main                                              ./Debug/application.c.o
+                                                  ./Debug/startup.c.o
+melody_player                                     ./Debug/application.c.o
+memchr                                            /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memchr.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+memcpy                                            /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-reallocr.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+memmove                                           /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-svfprintf.o)
+messages                                          ./Debug/TinyTimber.c.o
+msgPool                                           ./Debug/TinyTimber.c.o
+msgQ                                              ./Debug/TinyTimber.c.o
+mtable                                            ./Debug/TinyTimber.c.o
+otable                                            ./Debug/TinyTimber.c.o
+overflows                                         ./Debug/TinyTimber.c.o
+periods                                           ./Debug/application.c.o
+pop                                               ./Debug/TinyTimber.c.o
+prepare_can_msg                                   ./Debug/application.c.o
+push                                              ./Debug/TinyTimber.c.o
+put                                               ./Debug/buffer.c.o
+reader                                            ./Debug/application.c.o
+receiver                                          ./Debug/application.c.o
+runAsHardware                                     ./Debug/TinyTimber.c.o
+s                                                 ./Debug/application.c.o
+sci0                                              ./Debug/application.c.o
+sci_init                                          ./Debug/sciTinyTimber.c.o
+                                                  ./Debug/application.c.o
+sci_interrupt                                     ./Debug/sciTinyTimber.c.o
+                                                  ./Debug/application.c.o
+sci_write                                         ./Debug/sciTinyTimber.c.o
+                                                  ./Debug/application.c.o
+sci_writechar                                     ./Debug/sciTinyTimber.c.o
+                                                  ./Debug/application.c.o
+sei                                               ./Debug/TinyTimber.c.o
+send_response                                     ./Debug/application.c.o
+set_key                                           ./Debug/application.c.o
+set_period                                        ./Debug/application.c.o
+set_tempo                                         ./Debug/application.c.o
+sio_init                                          ./Debug/sioTinyTimber.c.o
+                                                  ./Debug/application.c.o
+sio_interrupt                                     ./Debug/sioTinyTimber.c.o
+                                                  ./Debug/application.c.o
+sio_read                                          ./Debug/sioTinyTimber.c.o
+sio_toggle                                        ./Debug/sioTinyTimber.c.o
+                                                  ./Debug/application.c.o
+sio_write                                         ./Debug/sioTinyTimber.c.o
+sniprintf                                         /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o)
+snprintf                                          /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-snprintf.o)
+                                                  ./Debug/application.c.o
+stacks                                            ./Debug/TinyTimber.c.o
+startApp                                          ./Debug/application.c.o
+start_player                                      ./Debug/application.c.o
+startup                                           ./Debug/startup.c.o
+strtol                                            /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o)
+                                                  /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-atoi.o)
+strtol_l                                          /Users/mbrattlof/GitHub/TinyTimber/gcc-arm-none-eabi-8-2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtol.o)
+sync                                              ./Debug/TinyTimber.c.o
+                                                  ./Debug/application.c.o
+sysio                                             ./Debug/application.c.o
+thread0                                           ./Debug/TinyTimber.c.o
+threadPool                                        ./Debug/TinyTimber.c.o
+threads                                           ./Debug/TinyTimber.c.o
+timerQ                                            ./Debug/TinyTimber.c.o
+timestamp                                         ./Debug/TinyTimber.c.o
+tinytimber                                        ./Debug/TinyTimber.c.o
+                                                  ./Debug/application.c.o
+tone_generator                                    ./Debug/application.c.o
+unkill                                            ./Debug/application.c.o
+unkill_player                                     ./Debug/application.c.o
+upcoming                                          ./Debug/TinyTimber.c.o
+                                                  ./Debug/dispatch.s.o
+update_neighbors                                  ./Debug/application.c.o
+vect_CAN1                                         ./Debug/TinyTimber.c.o
+vect_EXTI9_5                                      ./Debug/TinyTimber.c.o
+vect_PendSV                                       ./Debug/dispatch.s.o
+                                                  ./Debug/TinyTimber.c.o
+vect_SVCall                                       ./Debug/dispatch.s.o
+                                                  ./Debug/TinyTimber.c.o
+vect_TIM5                                         ./Debug/TinyTimber.c.o
+vect_USART1                                       ./Debug/TinyTimber.c.o
+volume_control                                    ./Debug/application.c.o
